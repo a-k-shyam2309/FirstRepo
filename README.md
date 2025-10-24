@@ -1,1 +1,2 @@
-# First making files on the editor, then exporting it to the repository of the Github.
+# First Repo
+First making files on the editor, then exporting it to the repository of the Github.
